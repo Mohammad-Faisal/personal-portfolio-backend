@@ -1,0 +1,3 @@
+{"level":"http","message":"GET /ping 200 4 - 7.746 ms ::1\n","timestamp":"2022-03-13T11:51:43.229Z"}
+{"level":"http","message":"GET /ping 304 - - 6.741 ms ::1\n","timestamp":"2022-03-13T11:51:45.385Z"}
+{"level":"http","message":"GET /ping 304 - - 0.914 ms ::1\n","timestamp":"2022-03-13T11:51:52.343Z"}
